@@ -9,6 +9,10 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+.content{
+  color: black;
+}
+
 
 .logo{
   background-size: contain;
@@ -40,7 +44,7 @@
   width: 730px;
   align-self: center;
   justify-content: flex-start;
-  z-index: 2;
+  z-index: 3;
   margin-left: 64px;
   line-height: 96px;
   font-size: 102px;
@@ -52,7 +56,7 @@
   left: 64px;
   bottom: 30px;
   width: 388px;
-  z-index: 1;
+  z-index: 2;
   line-height: 25px;
   font-size: 18px;
   font-weight:normal;
@@ -259,7 +263,7 @@ font-weight: normal;
   margin: auto;
   overflow: hidden;
   color: white;
-  background-color: black;
+  background-color: #1f1f1f;
 }
 
 .kaufman__triangle{
@@ -283,7 +287,7 @@ font-weight: normal;
   margin-bottom: 90px;
 }
 .footer{
-  background-color: black;
+  background-color: #1f1f1f;
   color: white;
   display: flex;
   min-height: 350px;
