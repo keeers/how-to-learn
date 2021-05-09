@@ -1,5 +1,10 @@
 .cards__item{
   width: 240px;
   margin-top: 60px;
+  margin-left: 100px;
+}
+
+.cards__item:first-of-type, .cards__item:nth-of-type(4){
+  margin-left: 0;
 }
 
