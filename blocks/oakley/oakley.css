@@ -1,0 +1,7 @@
+@import url(../two-columns/_type/two-columns_type_oakley.css);
+
+.oakley{
+  display: flex;
+  justify-content: center;
+  background-color: #f2f2f2;
+}
